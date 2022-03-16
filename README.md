@@ -4,10 +4,10 @@
 <a href="https://github.com/Ramdaniofficial/api-Ramdani Official/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Ramdaniofficial/api-Ramdani Official?color=blue&style=flat-square"></a>
 <a href="https://github.com/Ramdaniofficial/api-Ramdani Official/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Ramdaniofficial/api-Ramdani Official?color=red&style=flat-square"></a>
 <a href="https://github.com/Ramdaniofficial/api-Ramdani Official/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Ramdaniofficial/api-Ramdani Official?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Ramdaniofficial/Rest-api-alphabot"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/Ramdanofficial/Rest-api-alphabot/"><img title="Size" src="https://img.shields.io/github/repo-size/Ramdaniofficial/Rest-api-alphabot?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamdani Official%2FRest-api-alphabot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Ramdaniofficial/Rest-api-alphabot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Ramdaniofficial/Rest-api-ramdaniofficial"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
+<a href="https://github.com/Ramdanofficial/Rest-api-ramdaniofficial/"><img title="Size" src="https://img.shields.io/github/repo-size/Ramdaniofficial/Rest-api-ramdaniofficial?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRamdani Official%2FRest-api-ramdaniofficial&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Ramdaniofficial/Rest-api-ramdaniofficial/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -24,7 +24,7 @@
 
 ## ```Connect with me```
 <p align="center">
-  <a href="https://instagram.com/Ramdaniofficial"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://instagram.com/muhammadramdani196453"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/message/JBGU4J2DVYEDK1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/profile.php?id=100015526687857"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   <a href="https://t.me/Ramdaniee"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
@@ -36,10 +36,10 @@
 
 ## ```How to install```
 
-[`Click Here For Tutorial`](https://youtu.be/BCY6V2PDDEA)<br>
+[`Click Here For Tutorial`](https://youtube.com/channel/UCB157jomCne961WzYHpG4gg)<br>
 
 <p align="center">
-  <a href="https://youtu.be/BCY6V2PDDEA"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
+  <a href="https://youtube.com/channel/UCB157jomCne961WzYHpG4gg"><img src="https://telegra.ph/file/a5f2d77a88420560ed8c5.jpg" />
 </p>
 
 
@@ -54,4 +54,5 @@
 - [`Eka`]()
 - [`Farhan`]()
 - [`Ojan`]()
+- [`Zeeone ofc`]()
 - [`Ramdani Official`]()
